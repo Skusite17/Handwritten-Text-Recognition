@@ -1,1 +1,1 @@
-Hayugu
+Handwritten Text Recognition
